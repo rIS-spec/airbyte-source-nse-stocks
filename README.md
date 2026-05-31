@@ -37,6 +37,6 @@ python source.py
 ## Sample output
 
 #=== TCS Stock Connector ===
-<!-- ✅ Connection successful!
+✅ Connection successful!
 📈 2026-05-29 | Close: ₹2258.90 | Volume: 16331582
-✅ Total records fetched: 21 days of TCS data -->
+✅ Total records fetched: 21 days of TCS data
