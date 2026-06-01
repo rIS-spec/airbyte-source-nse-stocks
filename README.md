@@ -12,9 +12,10 @@ stock data from NSE India (National Stock Exchange) using Yahoo Finance.
 
 ## Tech stack
 
-- Python 3.12
+- Python 3.11
 - yfinance
 - airbyte-cdk
+- streamlit
 
 ## Deployment Link : https://nse-stocks-analytics-dashboard.streamlit.app/
 
